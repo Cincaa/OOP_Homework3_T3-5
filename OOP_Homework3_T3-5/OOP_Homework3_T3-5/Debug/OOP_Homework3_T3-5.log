@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  OOP_Homework3_T3-5.cpp
+c:\users\adrian\desktop\facultate\semestru 2\poo\oop_homework3_t3-5\oop_homework3_t3-5\oop_homework3_t3-5.cpp(247): warning C4101: 'x': unreferenced local variable
+c:\users\adrian\desktop\facultate\semestru 2\poo\oop_homework3_t3-5\oop_homework3_t3-5\oop_homework3_t3-5.cpp(261): warning C4101: 'x': unreferenced local variable
+  OOP_Homework3_T3-5.vcxproj -> C:\Users\Adrian\Desktop\Facultate\Semestru 2\POO\OOP_Homework3_T3-5\Debug\OOP_Homework3_T3-5.exe
